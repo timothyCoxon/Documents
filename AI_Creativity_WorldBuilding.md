@@ -1,5 +1,13 @@
 # AI, Creativity and World Building
 
+Oh was involved in several conversations where AI stealing the work of creatives came up and people bringing up how an AI couldn't really be creative. 
+Alongside this I have been trying to get more creatives involved in the "training" of AI in the worry about what an AGI would be like were it just trained on data provided it by the "20 Prompts to make you RICH!" crowd would end up like.
+So, Amusing myself with the ironic twist, I steal the concept of niche marketing to get ChatGPT to focus in on creating something unique in the field of world building for Writing/Films/RPG... 
+What follows is the short conversation I had with ChatGPT about it...
+((Oh and excuse my typing towards the end, I was getting excited by what was being created ;) ))
+
+---
+
 ### Tim:
 
 Okay Random Off topic question.  
@@ -310,7 +318,7 @@ Your vision for this unique and vibrant metropolis, combining natural and techno
 - **Insect Communication**: The industrial archologies are abuzz with the chittering and chirping of insects, communicating in a form of machine code language. This could be a form of bio-digital integration, where insects play a role in data processing and environmental monitoring.
 - **Amphibian-Influenced Music**: At ground level, in the damper, darker areas, amphibian musicians thrive. Their homes are organically grown structures designed to amplify their natural sounds, creating a unique blend of Latino and electronic music infused with the keys of frogs and basslines of toads.
 
-![https://youtube.com/shorts/n_aVKVBcRtA?si=Y1emOwfLUoO5CBqO]
+![[https://youtube.com/shorts/n_aVKVBcRtA?si=Y1emOwfLUoO5CBqO]]
 
   
 - **Interactive Light Shows**: The music venues feature standing water floors that catch and reflect the bioluminescent light. These waters respond to the music's frequency, creating reactive light shows that visually represent the sounds of this unique ecosystem.
